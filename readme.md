@@ -28,7 +28,7 @@ Performs KMeans clustering on the dataset with different feature combinations an
 Calculates Within-Cluster Sum of Squares (WSS) for the Elbow method.
 Calculates Silhouette scores for evaluating cluster quality.
 
-requirements.txt
+**requirements.txt**
 Specifies the Python libraries required for the project:
 
 pandas
